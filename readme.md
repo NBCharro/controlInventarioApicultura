@@ -1,6 +1,9 @@
 Autor: Nelson Blanco Charro
+
 Fecha: 17/11/2022
+
 Asignatura: Desarrollo Web en Entorno Servidor
+
 Titulo: Trabajo Final Bloque I
 
 DESCRIPCION DE LAS PAGINAS
